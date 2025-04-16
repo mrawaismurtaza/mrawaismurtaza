@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrawaismurtaza&label=Profile%20views&color=0e75b6&style=flat" alt="mrawaismurtaza" /> </p>
 
-- 🔭 I’m currently working on [Torogi App](https://github.com/zohiaby/file-drive) [AI Integration Apps](https://github.com/mrawaismurtaza/AI-Chatbot-App)
+- 🔭 I’m currently working on [Torogi App](https://github.com/mrawaismurtaza/Fadley-Offline-Sync-Social-App) [AI Integration Apps](https://github.com/mrawaismurtaza/AI-Chatbot-App)
 
 - 🌱 I’m currently pursuing as a **FLutter Developer**
 
