@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [File Storage System](https://github.com/zohiaby/file-drive)
 
-- 🌱 I’m currently learning **Android Development,NextJS**
+- 🌱 I’m currently pursuing as a **FLutter Developer**
 
-- 💬 Ask me about **MERN STACK, JAVA, JS, C++ , C#**
+- 💬 Ask me about **Flutter, Mobile Development, MERN STACK, JAVA, C++ , C#**
 
 - 📫 How to reach me **mrawaismurtaza@gmail.com**
 
