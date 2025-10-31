@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrawaismurtaza&label=Profile%20views&color=0e75b6&style=flat" alt="mrawaismurtaza" /> </p>
 
-- 🔭 I’m currently working on [Torogi App](https://github.com/mrawaismurtaza/Fadley-Offline-Sync-Social-App) [AI Integration Apps](https://github.com/mrawaismurtaza/AI-Chatbot-App)
+- 🔭 I’m currently working on [Esim App] [AI Integration Apps](https://github.com/mrawaismurtaza/AI-Chatbot-App)
 
 - 🌱 I’m currently pursuing as a **FLutter Developer**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrawaismurtaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrawaismurtaza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/awais-murtaza-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrawaismurtaza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-awaismurtaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrawaismurtaza" height="30" width="40" /></a>
 <a href="https://instagram.com/mrawaismurtaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrawaismurtaza" height="30" width="40" /></a>
 </p>
 
